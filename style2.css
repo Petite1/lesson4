@@ -1,0 +1,34 @@
+* {
+    padding:0;
+    margin:0;
+}
+
+a {
+    text-decoration: none;
+    
+    
+}
+
+li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+
+.navMenu {
+    width: 150px;
+    background-color: black
+}
+
+.navMenu a {
+    display: block;
+    padding: 10px 10px 10px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    border-bottom: 1px dotted #FFFFFF;
+}
+
+.navMenu a:hover {
+    background: rgb(144, 89, 247);
+}
